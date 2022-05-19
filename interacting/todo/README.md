@@ -1,0 +1,3 @@
+- Learn about slice & struct data type
+- unit test with prefix package _test
+- 
